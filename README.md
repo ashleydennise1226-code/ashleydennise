@@ -29,4 +29,3 @@ I’m a BS Information Technology student passionate about building projects tha
 - **LinkedIn:** [Ashley Dennise Alberto](https://www.linkedin.com/in/ashley-dennise-alberto-4a3abb392/)  
 - **Email:** [ashleydennise1226@gmail.com](mailto:ashleydennise1226@gmail.com)
 
-
