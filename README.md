@@ -15,6 +15,7 @@ I’m a BS Information Technology student passionate about building projects tha
 
 ## 🏅 Certification  
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f2a1de5aa1d244eeba7287322dcd0fa0)
+- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=723FE60DD29033EA256D671F69BDE40D538CAB8BA708722B77C44378A59DD231)
 
 ---
 
